@@ -1,8 +1,7 @@
 # testrepo
 just testing git flow
-<<<<<<< HEAD
+HEAD
 making an update
-=======
+
 
 Hey Miranda
->>>>>>> master
